@@ -45,7 +45,7 @@ python --version
 
 2. Run the calculator:
    ```bash
-   python app.py
+   python calculator_app.py
    ```
 
 ---
@@ -54,7 +54,7 @@ python --version
 
 ```
 📦 task_01/
-app.py               # Main GUI calculator code
+calculator_app.py               # Main GUI calculator code
 README.md            # Project documentation
 
 ## 🛠️ Tech Stack
