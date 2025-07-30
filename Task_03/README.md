@@ -27,7 +27,7 @@ This is a fun and interactive **Rock-Paper-Scissors** game built using **Python*
 
 1. Clone the repository or download the file:
    ```bash
-   git clone https://github.com/your-username/rps-gui.git
+   git clone https://github.com/logicode-tech/codsoft.git
    ```
 2. Navigate to the project folder:
    ```bash
