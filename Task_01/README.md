@@ -15,14 +15,6 @@ This is a modern and interactive **Calculator application** built using **Python
 
 ---
 
-## 📸 Preview
-
-> *(Replace the link below with an actual screenshot)*
-
-![Calculator GUI Preview](https://via.placeholder.com/600x350.png?text=Calculator+GUI+Preview)
-
----
-
 ## 🚀 Getting Started
 
 ### ✅ Requirements
@@ -34,11 +26,11 @@ This is a modern and interactive **Calculator application** built using **Python
 
 1. Clone the repository or download the file:
    ```bash
-   git clone https://github.com/your-username/calculator-gui.git
+   git clone https://github.com/logicode-tech/calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd calculator-gui
+   cd Task_01
    ```
 3. Run the program:
    ```bash
@@ -50,7 +42,7 @@ This is a modern and interactive **Calculator application** built using **Python
 ## 📂 Project Structure
 
 ```
-calculator-gui/
+Task_01/
 ├── calculator.py
 └── README.md
 ```
@@ -78,14 +70,4 @@ calculator-gui/
 Made with 💙 during my internship at **CodSoft**  
 Thanks to the team for the guidance and learning opportunity!
 
----
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🔗 Connect With Me
-
-If you liked this project, feel free to star ⭐ it or connect with me on [LinkedIn](https://www.linkedin.com/).
