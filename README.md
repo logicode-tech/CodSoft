@@ -77,6 +77,6 @@ I'm thankful for the opportunity to learn and apply my skills in real-world scen
 
 ## 🔗 Connect With Me
 
-If you found these projects useful or interesting, feel free to star ⭐ the repo or connect with me on [LinkedIn](linkedin.com/in/laxmi-maurya).
+If you found these projects useful or interesting, feel free to star ⭐ the repo or connect with me on [LinkedIn](https://www.linkedin.com/in/laxmi-maurya/).
 
 
