@@ -1,21 +1,21 @@
 
-# 🧮 Python GUI Calculator using Tkinter
+#  Python GUI Calculator using Tkinter
 
 This is a modern and interactive **Calculator application** built using **Python** and **Tkinter**. It allows users to perform basic arithmetic operations with a stylish interface, smooth animations, and full keyboard support.
 
 ---
 
-## 📌 Features
+##  Features
 
-- ➕ Basic operations: `+`, `-`, `*`, `/`, `.`
-- ✨ Hover glow and animated button click effects
-- ⌨️ Keyboard input support
-- 🧼 Clean and responsive layout
-- ❌ Error handling for invalid expressions
+-  Basic operations: `+`, `-`, `*`, `/`, `.`
+-  Hover glow and animated button click effects
+-  Keyboard input support
+-  Clean and responsive layout
+-  Error handling for invalid expressions
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### ✅ Requirements
 
